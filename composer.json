@@ -1,7 +1,17 @@
 {
+  "name": "afyaapp/public",
+  "type": "project",
   "require": {
     "ext-json": "*",
     "ext-mysqli": "*",
-    "ext-curl": "*"
+    "ext-curl": "*",
+    "zircote/swagger-php": "^3.0"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  },
+  "scripts": {
+    "docs": "swagger src/"
   }
 }

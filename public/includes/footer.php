@@ -49,6 +49,9 @@
 <script src="../assets/js/popper.min.js"></script>
 <script src="../assets/bootstrap-4.3.1/js/bootstrap.min.js"></script>
 <script src="../assets/js/bootbox.min.js"></script>
+<script src="../assets/js/moment.min.js"></script>
+<script src="../assets/js/dataTables.dateTime.min.js"></script>
+<script src="../assets/js/jquery.dataTables.min.js"></script>
 <!-- Datatable JS -->
 <script src="../assets/DataTables/datatables.min.js"></script>
 <!-- Select JS -->

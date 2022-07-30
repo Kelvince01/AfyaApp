@@ -5,7 +5,7 @@ const TITLE = "Contact Us";
 include '../includes/header.php';
 ?>
 
-<main role="main" class="container">
+<main role="main" class="container mt-6">
 
     <div class="row">
                 <div class="col-sm-9 px-5">
